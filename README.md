@@ -12,7 +12,7 @@ My name is Nicholas Famoye, i have my bachelor in Sociology, and currently trans
 - 🔭working At Revature as a Big Data Engineering 
 
 ## Priject 1
-<img src="https://github.com/NickFamoye/Nick_Famoye/commit/64f59f10fbf41917402c61eb528023d8b55cb8feht" width="256" />
+<img src="https://github.com/NickFamoye/Nick_Famoye/commit/64f59f10fbf41917402c61eb528023d8b55cb8feht.gif" width="256" />
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NickFamoye)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/the_famoye/)  
