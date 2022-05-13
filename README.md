@@ -1,4 +1,4 @@
-![Big Data Engineer](https://github.com/NickFamoye/NickFamoye/blob/main/20211225_153159-removebg-preview_cleanup.png)
+![Big Data Engineer](https://github.com/NickFamoye/NickFamoye/blob/main/Blue%20and%20yellow%20simple%20digital%20marketing%20banner%20(1).png)
 
 # Nicholas Famoye
 My name is Nicholas Famoye, i have my bachelor in Sociology, and currently transitioning into technology as a Big Data Engineer. i enjoy analyzing and programming which promt my enthusiastic quest towards learning programing languages, frameworks and databases like Python, Scala, linux, SQL, MongoDB that can enhance my productivity in an effective and efficient way.
