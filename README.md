@@ -9,7 +9,7 @@ My name is Nicholas Famoye, i transitioned from a sociological background into t
 * ⚛ SQL, MongoDB 
 * ⚛ Linux
 
-- 🔭working At Revature as a Big Data Engineering 
+- 🔭working At Revature as a Big Data Engineer
 
 
 ## Project 1
