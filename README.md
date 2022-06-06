@@ -15,8 +15,6 @@ My name is Nicholas Famoye, i transitioned from a sociological background into t
 ## Project 1
 [Project 1 Link](https://github.com/NickFamoye/Nick_Famoye/commit/64f59f10fbf41917402c61eb528023d8b55cb8fe#diff-0ac71c306a5e10029c76656606af8bb16ebb873a05b71f5c691ee5fbbddce319)
 
-[Presentation Link](https://docs.google.com/presentation/d/1dfTQ26HwEiUPM3ABWqC4qBwR2a0FXCD5FXxpEMB0yS8/edit#slide=id.g12f4125b426_2_199)
-
 <img src="https://github.com/NickFamoye/NickFamoye/blob/main/Gif.webp" width="256" />
 
 
