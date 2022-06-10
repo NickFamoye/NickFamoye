@@ -12,36 +12,6 @@ This is  my first interactive Back-end programming application project designed 
 
 <img src="https://github.com/NickFamoye/NickFamoye/blob/main/Gif.webp" width="256" />
 
-## Technologies Used
-• Python 3.10 • MongoDB
-
-• PyMongo
-
-• MongoDBCompass
-
-Integrated Development Environment
-•	Intellij 2011
-
-## Features
-• A menu system that a user can access to login and view task options.
-
-• Functions with option to accomplish CRUD operation task such as :
-
- - Create Trade_In Cars In Database Collection (MongoDB)
- - Read Customers Record In Database Collection (MongoDB)
- - Update Discrepancy In Customers Information In Database Collection (MongoDB)
- - Delete Cars From Year 2000 and Lower In Database Collection (MongoDB)
- 
-• Matplotlib graph for visualization of accomplished task
-
-To-do list
-• A functional and unique user login system.
-
-• More efficient code.
-
-• Scalable user functionality with ability to store user data.
-
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NickFamoye)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/the_famoye/)  
 
 ## General Skills and Experience
