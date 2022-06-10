@@ -30,7 +30,7 @@ This is a group project that comprises of four team members known as Team Vegas.
 * ⚛ Hive 
 * ⚛ Linux
 
-- 🔭working At Revature as a Big Data Engineer
+## Big Data Engineer at Revature 
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickFamoye)](https://github.com/anuraghazra/github-readme-stats)
