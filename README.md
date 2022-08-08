@@ -6,7 +6,7 @@
 My name is Nicholas Famoye, i transitioned from a sociological background into technology as a Big Data Engineer. i enjoy analyzing and programming which promt my enthusiastic quest towards learning programing languages, frameworks and databases like Python, Scala, linux, SQL, MongoDB that can enhance my productivity in an effective and efficient way with an utmost desire to develop application and analyze big data to deduce meaningful information for real-time diagnostic, descriptive, predictive and prescriptive purposes.
 
 # PROJECT LINKS
-[Wal-mart Solo Project Application Link](https://github.com/NickFamoye/Solo_Wal-mart_Project.git)
+[Wal-mart Solo Project Application Link](https://github.com/NickFamoye/Solo_Wal-mart_Project/tree/master_)
 
 [Big Data Analytical Application Link]( https://github.com/kgardea0/.RevProject2.git) 
 
