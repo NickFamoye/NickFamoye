@@ -21,6 +21,7 @@ This is  my first interactive Back-end programming application project designed 
 This is a group project that comprises of four team members known as Team Vegas. We developed a Back-end Application with the capacity of analyzing Big Data emphasized on providing solutions to Marketing Department common challenges. We conglomerated Programing languages, query languages and databases to deduce valued information suitable for Real-Time Diagnostic and Descriptive Purposes and also Futuristic Prescriptive and Predictive Purposes.
 
 [Project 2 Link]( https://github.com/kgardea0/.RevProject2.git)  
+[Wal-mart_Solo_Project Link](https://github.com/NickFamoye/NickFamoye/tree/master_)
 
 ## General Skills and Experience
 * ⚛ Python 
@@ -31,7 +32,6 @@ This is a group project that comprises of four team members known as Team Vegas.
 * ⚛ Hive 
 * ⚛ Linux
 
-[Wal-mart_Solo_Project Link](https://github.com/NickFamoye/NickFamoye/tree/master_)
 
 ## Big Data Engineer at Revature 
 
