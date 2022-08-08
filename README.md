@@ -31,6 +31,8 @@ This is a group project that comprises of four team members known as Team Vegas.
 * ⚛ Hive 
 * ⚛ Linux
 
+[Wal-mart_Solo_Project Link](https://github.com/NickFamoye/NickFamoye/tree/master_)
+
 ## Big Data Engineer at Revature 
 
 
