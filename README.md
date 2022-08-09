@@ -20,6 +20,7 @@ My name is Nicholas Famoye, i transitioned from a sociological background into t
 * ⚛ Scala 
 * ⚛ SQL
 * ⚛ MongoDB
+* ⚛ Postgres
 * ⚛ Spark
 * ⚛ Hive 
 * ⚛ Linux
