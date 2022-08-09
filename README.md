@@ -5,7 +5,7 @@
 # Nicholas Famoye
 My name is Nicholas Famoye, i transitioned from a sociological background into technology as a Big Data Engineer. i enjoy analyzing and programming which promt my enthusiastic quest towards learning programing languages, frameworks and databases like Python, Scala, linux, SQL, MongoDB that can enhance my productivity in an effective and efficient way with an utmost desire to develop application and analyze big data to deduce meaningful information for real-time diagnostic, descriptive, predictive and prescriptive purposes.
 
-# PROJECT LINKS
+# Project Links
 [Cost Effective Grocery Store Application (Walmart Best Option) Link](https://github.com/NickFamoye/Solo_Wal-mart_Project/tree/master_)
 
 [Revature-Big-Data-Capstone Application (Team Project) Link](https://github.com/Revature-Big-Data-Capstone-1348/Project-3.git)
