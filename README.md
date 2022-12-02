@@ -19,6 +19,7 @@ My name is Nicholas Famoye, i transitioned from a sociological background into t
 * ⚛ Python 
 * ⚛ Scala 
 * ⚛ SQL
+* ⚛ Google BigQuery
 * ⚛ MongoDB
 * ⚛ Postgres
 * ⚛ Spark
